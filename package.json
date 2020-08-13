@@ -1,0 +1,15 @@
+{
+  "name": "json-csv-conversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-2-csv": "^3.7.6"
+  }
+}
